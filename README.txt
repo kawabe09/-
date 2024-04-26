@@ -1,7 +1,7 @@
 お問い合わせフォーム
 
 環境構築
-1.
+1.git clone https://github.com/kawabe09/-.git
 2.docker-compose up -d -build
 
 Laravel環境開発
